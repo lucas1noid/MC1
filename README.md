@@ -1,2 +1,2 @@
 # MC1
-Exercícios Avaliativos referente à Unidade 2
+Exercícios Avaliativos referentes à Unidade 2
