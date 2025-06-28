@@ -1,4 +1,4 @@
 # MC1
 Exercícios Avaliativos referentes à Unidade 2                                                                                                                      
-Docentes: Anderson PC feat: André campos
-discente: Lucas Lopes (vulgo eu)
+Docentes: Anderson PC feat: André campos                                                                            
+Discente: Lucas Lopes (vulgo eu)
